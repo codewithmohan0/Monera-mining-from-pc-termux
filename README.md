@@ -1,0 +1,1 @@
+# Monera-mining-from-pc-termux
