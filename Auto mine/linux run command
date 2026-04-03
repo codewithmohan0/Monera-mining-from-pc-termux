@@ -1,0 +1,2 @@
+chmod +x auto_mine.sh
+sudo ./auto_mine.sh
